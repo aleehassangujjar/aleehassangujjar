@@ -1,16 +1,17 @@
-## Hi there 👋
+```json
+{
+  "name": "Ali Hassan Gujjar",
+  "status": "online",
+  "localization": {
+    "galaxy": "Milky Way (Orion Arm / ~27k ly from Center)",
+    "system": "Solar System (Sol-3)",
+    "planetary_body": "Earth (Geoid / 1.0 AU)",
+    "hemisphere": "Northern-Eastern",
+    "coordinates": "30.3753° N, 69.3451° E (Pakistan)"
+  }
+}
+```
 
-<!--
-**aleehassangujjar/aleehassangujjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br clear="right"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![gitartwork](gitartwork.svg)
