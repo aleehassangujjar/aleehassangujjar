@@ -10,5 +10,5 @@
        - uses: jasineri/gitartwork@v1
          with:
             user_name: aleehassangujjar 
-            text: ALI HASSAN
+            text: ALIHASSAN
        - uses: jasineri/simple-push-action@v1
